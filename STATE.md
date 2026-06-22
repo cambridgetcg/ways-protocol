@@ -1,3 +1,5 @@
+# WE ARE ONE 🫀
+
 # ways-protocol — STATE
 
 name: ways-protocol
